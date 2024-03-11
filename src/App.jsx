@@ -1,5 +1,10 @@
+import CustomButton from "./CustomButton";
+
 function App() {
-  return <h1>Hello World</h1>
+  return <div>
+    <h1>Hello World</h1>
+    <CustomButton> </CustomButton>
+  </div>
 }
 
 
